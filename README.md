@@ -193,3 +193,4 @@ The latest Github master version can be fetched through sonatype.org:
 -----
 
 *Thank you to everyone who has reported bugs and suggested fixes.*
+New text added
